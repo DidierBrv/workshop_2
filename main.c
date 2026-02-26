@@ -22,6 +22,5 @@ int main() {
     int a = 5, b = 3;
     printf("Addition : %d + %d = %d\n", a, b, addition(a, b));
     printf("Soustraction : %d - %d = %d\n", a, b, soustraction(a, b));
-    afficher_cle();
     return 0;
 }
